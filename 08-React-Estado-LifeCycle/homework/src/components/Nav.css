@@ -1,0 +1,28 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+#navBar {
+  background-color: rgb(69, 69, 69);
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  align-items: center;
+}
+
+#title {
+  color: white;
+}
+
+#buscador {
+  padding-left: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+#boton {
+  color: white;
+  background-color: rgb(69, 69, 69);
+  border: white solid 1px;
+  border-radius: 5px;
+}
